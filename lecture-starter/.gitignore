@@ -1,0 +1,27 @@
+[Tt]humbs.db
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+# Java
+bin/
+/.apt_generated/
+/.apt_generated_tests/
+
+uploads/
+logs/
